@@ -1,0 +1,50 @@
+{
+  "@@locale": "es",
+
+  "languageName_en": "en, En, Inglés",
+  "languageName_es": "es, Es, Español",
+  "languageName_fr": "fr, Fr, Francés",
+  
+  "appLanguage": "Idioma de la aplicación",
+
+  "welcomeMessage": "Te damos la bienvenida a WhWatsApp",
+  "@welcomeMessage": {
+    "description": "Mensaje de bienvenida mostrado al usuario al abrir la aplicación"
+  },
+
+  "termsAndConditionsMessage": "Si te registras, aceptas la {privacyPolicy} y las {termsConditions} de WhatsApp.",
+  "privacyPolicy": "Política de privacidad",
+  "termsConditions": "Condiciones de servicio",
+
+  "accountInfoMessage": "Usamos tu información para crear tu cuenta, prestar nuestros servicios y ayudar a mantener WhatsApp seguro y protegido. En los ajustes, puedes acceder a la información de tu cuenta, administrarla y Eliminarla. {learnMore}",
+  "learnMore": "Mas informacion",
+  "agreeAndContinue": "Aceptar y continuar",
+
+  "chooseCountry": "Elija un país",
+  "invalidCountryCodeLength": "Longitud del código de país no válida (solo 1-3 dígitos).",
+  "invalidCountryCode": "Código de país no válido.",
+  "emptyPhoneNumber": "Por favor, ingresa tu número de teléfono.",
+  "shortPhoneNumber": "El número de teléfono ingresado es demasiado corto para el país: {countryName}.\n\nIncluye tu código de área si aún no lo has hecho.",
+  "longPhoneNumber": "El número de teléfono ingresado es demasiado largo para el país: {countryName}.",
+
+  "edit": "Editar",
+  "yes": "Sí",
+  "no": "No",
+  "next": "Siguiente",
+
+  "is_this_correct_number": "¿Es este el número correcto?",
+  "enter_phone_number": "Ingresa tu número de teléfono",
+  "whatsapp_verification": "WhatsApp necesitará verificar tu número de teléfono. (es posible que tu operador aplique cargos). {whats_my_number}",
+  "whats_my_number": "¿Cuál es mi número?",
+
+  "verify_phone_number": "verificar tu número de teléfono",
+  "did_not_receive_code": "¿No recibiste el código?",
+  "waiting_for_sms": "Esperando para detectar automáticamente el SMS enviado a {phoneNumber}. {wrong_number}",
+  "wrong_number": "¿Número incorrecto?"
+
+
+  
+  
+ 
+ 
+}

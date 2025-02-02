@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "whatsapp-clone-br772",
+          "appId": "1:929529357029:android:2605c1201ac27d69a92a0c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "whatsapp-clone-br772",
+          "configurations": {
+            "android": "1:929529357029:android:2605c1201ac27d69a92a0c",
+            "ios": "1:929529357029:ios:1dee1c8f7660b3c1a92a0c",
+            "web": "1:929529357029:web:187be5a9b424876da92a0c"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

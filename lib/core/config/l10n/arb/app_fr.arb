@@ -1,0 +1,49 @@
+{
+  "@@locale": "fr",
+  
+  "languageName_en": "en, En, Anglais",
+  "languageName_es": "es, Es, Espagnol",
+  "languageName_fr": "fr, Fr, Français",
+
+  "appLanguage": "Langue de l'application",
+
+  "welcomeMessage": "Bienvenue sur WhatsApp",
+  "@welcomeMessage": {
+    "description": "Message de bienvenue affiché à l'utilisateur lors de l'ouverture de l'application"
+  },
+
+  "termsAndConditionsMessage": "En vous inscrivant, vous acceptez la {privacyPolicy} et les {termsConditions} de WhatsApp.",
+  "privacyPolicy": "Politique de confidentialité",
+  "termsConditions": "Conditions d'utilisation",
+
+  "accountInfoMessage": "Nous utilisons vos informations pour créer votre compte, fournir nos services et aider à garder WhatsApp sûr et sécurisé. Dans les paramètres, vous pouvez accéder, gérer et supprimer vos informations de compte. {learnMore}",
+  "learnMore": "En savoir plus",
+  "agreeAndContinue": "Accepter et continuer",
+
+  "chooseCountry": "Choisissez un pays",
+  "invalidCountryCodeLength": "Longueur du code pays invalide (1 à 3 chiffres uniquement).",
+  "invalidCountryCode": "Code pays invalide.",
+  "emptyPhoneNumber": "Veuillez entrer votre numéro de téléphone.",
+  "shortPhoneNumber": "Le numéro de téléphone saisi est trop court pour le pays : {countryName}.\n\nAjoutez votre indicatif régional si vous ne l'avez pas encore fait.",
+  "longPhoneNumber": "Le numéro de téléphone saisi est trop long pour le pays : {countryName}.",
+
+  "edit": "Éditer",
+  "yes": "Oui",
+  "no": "Non",
+  "next": "Suivant",
+
+  "is_this_correct_number": "Est-ce le bon numéro?",
+  "enter_phone_number": "Saisissez votre numéro de téléphone",
+  "whatsapp_verification": "WhatsApp devra vérifier votre numéro de téléphone. Des frais peuvent s'appliquer selon I'opérateur. {whats_my_number}",
+  "whats_my_number": "Quel est mon numéro?",
+
+  "verify_phone_number": "Vérifiez votre numéro de téléphone",
+  "did_not_receive_code": "Vous n'avez pas reçu le code?",
+  "waiting_for_sms": "En attente de détecter automatiquement le SMS envoyé au {phoneNumber}. {wrong_number}",
+  "wrong_number": "Mauvais numéro ?"
+
+
+
+
+
+}

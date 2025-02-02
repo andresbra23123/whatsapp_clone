@@ -1,0 +1,49 @@
+{
+  "@@locale": "en",
+
+  "languageName_en": "en, En, English",
+  "languageName_es": "es, Es, Spanish",
+  "languageName_fr": "fr, Fr, French",
+  
+  "appLanguage": "App Language",
+
+  "welcomeMessage": "Welcome to WhatsApp",
+  "@welcomeMessage": {
+    "description": "Welcome message shown to the user when opening the app"
+  },
+
+  "termsAndConditionsMessage": "By signing up, you agree to WhatsApp's {privacyPolicy} and {termsConditions}.",
+  "privacyPolicy": "Privacy Policy",
+  "termsConditions": "Terms of Service",
+
+
+  "accountInfoMessage": "We use your information to create your account, deliver our services, and help keep WhatsApp safe and secure. in settings, you can access, manage, and delete your account information. {learnMore}",
+  "learnMore": "Learn more",
+  "agreeAndContinue": "Agree and continue",
+
+  "chooseCountry": "Choose a country",
+  "invalidCountryCodeLength": "Invalid country code length (1-3 digits only).",
+  "invalidCountryCode": "Invalid country code.",
+  "emptyPhoneNumber": "Please enter your phone number.",
+  "shortPhoneNumber": "The phone number you entered is too short for the country: {countryName}.\n\nInclude your area code if you haven't.",
+  "longPhoneNumber": "The phone number you entered is too long for the country: {countryName}.",
+
+  "edit": "Edit",
+  "yes": "Yes",
+  "no": "No",
+  "next": "Next",
+
+  "is_this_correct_number": "Is this the correct number?",
+  "enter_phone_number": "Enter your phone number",
+  "whatsapp_verification": "WhatsApp will need to verify your phone number. Carrier charges may apply. {whats_my_number}.",
+  "whats_my_number": "What's my number?",
+
+  "verify_phone_number": "Verify your phone number",
+  "did_not_receive_code": "Didn't receive the code?",
+  "waiting_for_sms": "Waiting to automatically detect SMS sent to {phoneNumber}. {wrong_number}",
+  "wrong_number": "Wrong number?"
+
+
+
+
+}
