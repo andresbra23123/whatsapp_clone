@@ -19,7 +19,7 @@ dependencies:
   enough_giphy_flutter: ^0.4.1
   equatable: ^2.0.5
   file_picker: ^8.1.6
-  firebase_auth: ^5.3.1
+  firebase_auth: ^5.5.3
   firebase_core: ^3.6.0
   firebase_storage: ^12.3.4
   flutter:
